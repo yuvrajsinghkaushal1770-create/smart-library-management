@@ -1,0 +1,26 @@
+# Maven build output
+target/
+
+# Compiled class files
+*.class
+
+# Logs
+logs/
+
+# Generated reports
+report.csv
+
+# Local config (contains real password)
+config.properties
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
